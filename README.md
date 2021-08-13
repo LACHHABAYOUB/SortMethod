@@ -5,10 +5,10 @@ In This Repo I program different type Of Sort Algorithm
 ```sh
 Sorting algorithms
 
-![Capture](https://user-images.githubusercontent.com/44031876/129424960-5e75934f-27ff-4c5d-9a17-3fdb97947e16.PNG)
-
-
 ```
+
+![Capture](https://user-images.githubusercontent.com/44031876/129425063-fb134f57-ae8c-46d1-a857-664206dc216e.PNG)
+
 
 ```sh
 Best Algorithm 
